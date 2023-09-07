@@ -1,1 +1,1 @@
-# supersite
+# Web Development exercise
