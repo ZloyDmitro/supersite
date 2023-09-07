@@ -1,16 +1,13 @@
 body {
     background: radial-gradient(navy, black) ;
-    
-    
     color: white;
     text-align: center;
-
     height: 85vh;
     display: grid;
     place-items: center;
 }
 #backend {
-scale: 2;
+scale: 1,5;
 }
 
 main {
@@ -22,7 +19,6 @@ main {
     height: 200px;
     place-items: center;
     display: grid;
-    
     animation: rota 30s infinite;
 }
 
